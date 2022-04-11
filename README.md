@@ -9,6 +9,8 @@ Algunas cosas a tener en cuenta:
 Entregables:
 
 - First_Assignment = Entregables taller uno
+- Second_Assignment = Entregables taller dos
+
 
 Ejemplos para correr el notebook:
 
