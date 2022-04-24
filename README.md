@@ -10,6 +10,7 @@ Entregables:
 
 - First_Assignment = Entregables taller uno
 - Second_Assignment = Entregables taller dos
+- Second_Exam = Examen corte dos
 
 
 Ejemplos para correr el notebook:
